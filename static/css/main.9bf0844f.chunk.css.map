@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Counter.scss"],"names":[],"mappings":"AAAA,SACE,YAAa,CACb,aAAc,CAEd,gBACE,iBAAkB,CAClB,cAAe,CAChB,iBAGC,cAAe","file":"main.9bf0844f.chunk.css","sourcesContent":[".Counter {\n  display: grid;\n  grid-gap: 12px;\n\n  &__title {\n    text-align: center;\n    font-size: 24px;\n  }\n\n  &__button {\n    font-size: 20px;\n  }\n}"]}
